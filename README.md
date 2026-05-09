@@ -1,6 +1,6 @@
 # X-10A42V-DDSB-PSU - DUAL IN ONE 10A 42V DC SYMMETRICAL PSU FOR POWER AMPLIFIER IN DOUBLE-SIDED CIRCUIT BOARD
 
-X-10A42V-DDSB-PSU is a dual in one PSU circuit module in one double-sided circuit board designed to utilize the voltage operating & power supply for power amplifier main-circuit such as [X-B120W-4 power amplifier main-circuit module](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-B120W-4). It provides split dual 42V DC symmetical outputs with 10A DC current handling capability applies GBU1006 rectifier diodes, audio grounds, power/PSU grounds, and chassis grounds. It is completed with inrush current limiter applies 7 ohms - 15 Amperes Inrush Current Limiter (NTC Thermistor) type MS32-7R015 product from Vishay / Ametherm.
+X-10A42V-DDSB-PSU is a dual in one PSU circuit module in one double-sided circuit board designed to utilize the voltage operating & power supply for power amplifier main-circuit module such as [X-B120W-4](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-B120W-4). It provides split dual 42V DC symmetical outputs with 10A DC current handling capability applies GBU1006 rectifier diodes, audio grounds, power/PSU grounds, and chassis grounds. It is completed with inrush current limiter applies 7 ohms - 15 Amperes Inrush Current Limiter (NTC Thermistor) type MS32-7R015 product from Vishay / Ametherm.
 
 ![X-10A42V-DDSB-PSU schematic diagram](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-10A42V-DDSB-PSU/blob/main/X-10A42V-DDSB-PSU-DUAL-IN-ONE-10A-42V-SYMMETRICAL-PSU-FOR-POWER-AMP.png?raw=true)
 
