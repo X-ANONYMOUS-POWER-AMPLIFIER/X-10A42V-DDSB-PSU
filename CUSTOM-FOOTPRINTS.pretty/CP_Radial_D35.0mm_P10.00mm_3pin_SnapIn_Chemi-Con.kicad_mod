@@ -1,0 +1,253 @@
+(footprint "CP_Radial_D35.0mm_P10.00mm_3pin_SnapIn_Chemi-Con"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "CP, Radial series, Radial, pin pitch=10.00mm, diameter=35mm, height=50mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf")
+	(tags "CP Radial series Radial pin pitch 10.00mm diameter 35mm height 50mm Electrolytic Capacitor")
+	(property "Reference" "REF**"
+		(at 0 -18.5 0)
+		(layer "F.SilkS")
+		(uuid "09ecc6db-7a1a-4412-b782-c27e2b981a19")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CP_Radial_D35.0mm_P10.00mm_3pin_SnapIn_Chemi-Con"
+		(at 0 18.75 0)
+		(layer "F.Fab")
+		(uuid "8c699ca4-fabe-45df-af74-502a5eeeac29")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at -5 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3bcbdbe3-6d34-4833-9fcd-c17596da78ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -5 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "93f595b9-bd8f-4b5a-8cf9-7ecb68072773")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -5 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f0e193a3-c0ec-4025-bd71-aadaf1697fdd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -17.5 -9.5)
+		(end -15.5 -9.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "1fb9e0cd-3cf6-4ea7-a28b-604fd18fd39a")
+	)
+	(fp_line
+		(start -16.5 -10.5)
+		(end -16.5 -8.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "fffa4714-e596-4d8e-9c21-58d33fc55ccf")
+	)
+	(fp_line
+		(start 5 -3)
+		(end 5 -16.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "65aadfff-c3b6-4141-a9c3-80f3acdb5e05")
+	)
+	(fp_line
+		(start 5 2.5)
+		(end 5 16.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "f4ac74ea-f408-4502-b0d2-a1158816aa21")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 17.62 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "ab65f712-ce13-4f1a-9220-54c8de07c736")
+	)
+	(fp_line
+		(start -17.5 -9.5)
+		(end -15.5 -9.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1455c35e-9398-401e-bbce-40204b809d29")
+	)
+	(fp_line
+		(start -16.5 -10.5)
+		(end -16.5 -8.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6062497a-88b1-451e-bd0b-4a2f9dd7366e")
+	)
+	(fp_line
+		(start 5 -2.5)
+		(end 5 -16.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b1414619-5463-4332-9232-ab5880e4f6dc")
+	)
+	(fp_line
+		(start 5 2.5)
+		(end 5 16.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fb2b0967-45d2-43c1-b758-e034cd2327ad")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 17.62 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "ecc97dad-d507-4ac9-8efc-abf98a0d1381")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 17.75 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "27862637-9e58-423d-9a7e-322a4f7c1d16")
+	)
+	(fp_line
+		(start -15.065141 -7.6875)
+		(end -11.565141 -7.6875)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c83696ed-f294-43c2-a279-f7e988e1c07e")
+	)
+	(fp_line
+		(start -13.315141 -9.4375)
+		(end -13.315141 -5.9375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "54cc6fa0-1c78-42b8-aecb-3f16450ffac1")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -18.5 0)
+		(layer "B.SilkS")
+		(uuid "9d15315e-695c-4edd-b27d-b1807253050b")
+		(effects
+			(font
+				(size 1.25 1.25)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "fcc97097-9897-4bcf-893a-e7411049d331")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -5 0)
+		(size 4 4)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e8af4c0b-9518-4d69-94d2-41937cace566")
+	)
+	(pad "2" thru_hole circle
+		(at 5 0)
+		(size 4 4)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c9620b76-458b-41c5-9fb6-521ec11687c6")
+	)
+	(model "${KIPRJMOD}/3D-FOOTPRINTS/E-SNAP-IN_D35_L50__VSN_SLEEVE_STRUCTURE.stp"
+		(offset
+			(xyz 0 0 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -180)
+		)
+	)
+)
