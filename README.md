@@ -14,7 +14,7 @@ X-10A42V-DDSB-PSU is a dual in one PSU circuit module in one double-sided circui
 ## X-10A42V-DDSB-PSU - DUAL IN ONE 10A 42V DC SYMMETRICAL PSU FOR POWER AMPLIFIER IN DOUBLE-SIDED CIRCUIT BOARD - Open Source Hardware License
 
 1. **License Grant**  
-The Licensor hereby grants you a worldwide, royalty-free, non-exclusive, perpetual license to use the circuit design for or non-commercial purpose only.
+The Licensor hereby grants you a worldwide, royalty-free, non-exclusive, perpetual license to use the circuit design for the non-commercial purposes only.
 2. **Conditions**  
 Attribution: You must provide credit to the original creator when distributing this circuit design.
 3. **Disclaimer of Warranty**  
