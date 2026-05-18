@@ -1,4 +1,4 @@
-26486390566179842
+26465012306384909
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2730,19 +2730,12 @@ speaker CUI
 2
 2
 CUSTOM-FOOTPRINTS
-CP_Radial_D6.3mm_P2.50mm
-CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
+BULGIN-IEC-Connector-PF0002-28
+
+
 0
-2
-2
-CUSTOM-FOOTPRINTS
-CP_Radial_D8.0mm_P4.00mm_P5.00mm
-CP, Radial series, Radial, pin pitch=5.00mm, , diameter=8mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 5.00mm  diameter 8mm Electrolytic Capacitor
-0
-2
-2
+5
+5
 CUSTOM-FOOTPRINTS
 CP_Radial_D10.0mm_P5.00mm
 CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor
@@ -2754,13 +2747,6 @@ CUSTOM-FOOTPRINTS
 CP_Radial_D35.0mm_P10.00mm_3pin_SnapIn_Chemi-Con
 CP, Radial series, Radial, pin pitch=10.00mm, diameter=35mm, height=50mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
 CP Radial series Radial pin pitch 10.00mm diameter 35mm height 50mm Electrolytic Capacitor
-0
-2
-2
-CUSTOM-FOOTPRINTS
-C_Disc_D7.5mm_W2.5mm_P5.08mm
-C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*2.5mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
-C Disc series Radial pin pitch 5.00mm  diameter 7.5mm width 2.5mm Capacitor
 0
 2
 2
@@ -2800,13 +2786,6 @@ DRILL_1.27mm_11.43mm
 0
 0
 CUSTOM-FOOTPRINTS
-D_DO-35_SOD27_P10.16mm_Horizontal
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm
-0
-2
-2
-CUSTOM-FOOTPRINTS
 D_DO-41_SOD81_P10.16mm_Horizontal
 Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
 Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
@@ -2814,16 +2793,16 @@ Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diamet
 2
 2
 CUSTOM-FOOTPRINTS
-Diode_Bridge_Rectifier_GBPC
-
-
+Diode_Bridge_Vishay_GBU
+Vishay GBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88606/g3sba20.pdf
+Vishay GBU rectifier diode bridge
 0
 4
 4
 CUSTOM-FOOTPRINTS
-Diode_Bridge_Vishay_GBU
-Vishay GBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88606/g3sba20.pdf
-Vishay GBU rectifier diode bridge
+Diode_Bridge_Vishay_KBPM
+Vishay KBM rectifier package, 3.95mm pitch (http://www.farnell.com/datasheets/2238158.pdf, http://www.cdil.com/s/kbp2005_.pdf)
+Vishay KBM rectifier diode bridge
 0
 4
 4
@@ -2834,20 +2813,6 @@ Hole_2.7mm
 0
 0
 0
-CUSTOM-FOOTPRINTS
-Inductor_Air_Core_1uH
-
-
-0
-2
-2
-CUSTOM-FOOTPRINTS
-J_16.8275mm
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
-0
-2
-2
 CUSTOM-FOOTPRINTS
 L_Radial_D9.5mm_P5.00mm_Fastron_07HVP
 Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=9.5mm, Fastron, 07HVP, http://www.fastrongroup.com/image-show/107/07HVP%2007HVP_T.pdf?type=Complete-DataSheet&productType=series
@@ -2870,12 +2835,12 @@ connector Molex KK-254 vertical
 3
 3
 CUSTOM-FOOTPRINTS
-NTC_D5.0mm_T2.5mm_SP2.50mm_Flip_Mount
-C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
-C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor
+Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical
+Molex KK-254 Interconnect System, old/engineering part number: AE-6410-04A example for new part number: 22-27-2041, 4 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-254 vertical
 0
-2
-2
+4
+4
 CUSTOM-FOOTPRINTS
 NTC_MS32_7R015
 
@@ -2891,41 +2856,6 @@ PCB_TAB_250_FASTON_TPBR
 2
 1
 CUSTOM-FOOTPRINTS
-Potentiometer_Bourns_3296W_Vertical
-Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
-Potentiometer vertical Bourns 3296W
-0
-3
-3
-CUSTOM-FOOTPRINTS
-R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
-0
-2
-2
-CUSTOM-FOOTPRINTS
-R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm
-Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm
-0
-2
-2
-CUSTOM-FOOTPRINTS
-R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm
-Resistor, Axial_DIN0516 series, Axial, Horizontal, pin pitch=20.32mm, 2W, length*diameter=15.5*5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0516 series Axial Horizontal pin pitch 20.32mm 2W length 15.5mm diameter 5mm
-0
-2
-2
-CUSTOM-FOOTPRINTS
-R_BPR_5W
-
-
-0
-2
-2
-CUSTOM-FOOTPRINTS
 Relay_SPDT_RAYEX-L90
 https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
 Relay RAYEX L90 SPDT
@@ -2933,25 +2863,11 @@ Relay RAYEX L90 SPDT
 6
 6
 CUSTOM-FOOTPRINTS
-TO-92_3_Wide
-TO-92 leads in-line, wide, drill 0.75mm (see NXP sot054_po.pdf)
-to-92 sc-43 sc-43a sot54 PA33 transistor
-0
-3
-3
-CUSTOM-FOOTPRINTS
-TO-220-3_Vertical_With_Small_Heatsink
+TO-220-3_Vertical_Heatsink-SK-104_38.1mm
 TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
 TO-220-3 Vertical RM 2.54mm
 0
-3
-3
-CUSTOM-FOOTPRINTS
-TO-264-3_Vertical
-TO-264-3, Vertical, RM 5.45mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf, generated with kicad-footprint-generator TO_SOT_THT_generate.py
-TO-264-3 Vertical RM 5.45mm
-0
-3
+5
 3
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
