@@ -14,8 +14,9 @@ The physical PCB can be split into 4 pieces by cutting on the breakaway-tabs.
 ![Circuit board preview 3](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-10A42V-DDSB-PSU/blob/main/PCB-PREVIEW/3.png)
 ![Circuit board preview 4](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-10A42V-DDSB-PSU/blob/main/PCB-PREVIEW/4.png)
 ![Circuit board preview 5](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-10A42V-DDSB-PSU/blob/main/PCB-PREVIEW/5.png)
-![Circuit board preview 5](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-10A42V-DDSB-PSU/blob/main/PCB-PREVIEW/6.png)
-![Circuit board preview 5](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-10A42V-DDSB-PSU/blob/main/PCB-PREVIEW/7.png)
+![Circuit board preview 6](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-10A42V-DDSB-PSU/blob/main/PCB-PREVIEW/6.png)
+![Circuit board preview 7](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-10A42V-DDSB-PSU/blob/main/PCB-PREVIEW/7.png)
+![Circuit board preview 8](https://github.com/X-ANONYMOUS-POWER-AMPLIFIER/X-10A42V-DDSB-PSU/blob/main/PCB-PREVIEW/8.png)
 
 ## License
 

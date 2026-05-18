@@ -9890,6 +9890,7 @@
 		(path "/546de975-036d-42d8-b516-f4826e16c573")
 		(sheetname "/")
 		(sheetfile "X-10A42V-DDSB-PSU-DUAL-IN-ONE-10A-42V-SYMMETRICAL-PSU-FOR-POWER-AMP.kicad_sch")
+		(attr through_hole)
 		(fp_line
 			(start 19.5 1.75)
 			(end -11.7 1.75)
